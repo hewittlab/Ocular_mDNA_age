@@ -2,11 +2,11 @@
 ### This code is adapted from Steve Horvath R script 
 ### for estimating DNA methylation age.
 ### the following script and files must be downloaded to your working directory:
-### 1) probeAnnotation21kdatMethUsed.csv
-### 2) datMiniAnnotation27k.csv
-### 3) AdditionalFile3.csv
-### 4) StepwiseAnalysis.txt
-### 5) https://labs.genetics.ucla.edu/horvath/dnamage/NORMALIZATION.R
+###   1) probeAnnotation21kdatMethUsed.csv
+###   2) datMiniAnnotation27k.csv
+###   3) AdditionalFile3.csv
+###   4) StepwiseAnalysis.txt
+###   5) https://labs.genetics.ucla.edu/horvath/dnamage/NORMALIZATION.R
 #####################################################
 
 library(WGCNA)
