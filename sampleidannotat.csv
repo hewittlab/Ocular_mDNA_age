@@ -1,0 +1,30 @@
+id,Age,PreservationTimeInterval,CauseofDeath,Female,SampleLabel
+3631B,58,8.2,AMI,0,Blood
+3631R,58,8.2,AMI,0,Neurosensory Retina
+3631C,58,8.2,AMI,0,RPE/Choroid
+3631O,58,8.2,AMI,0,Optic Nerve
+3689B,67,9.1,AMI,0,Blood
+3689R,67,9.1,AMI,0,Neurosensory Retina
+3689C,67,9.1,AMI,0,RPE/Choroid
+3689O,67,9.1,AMI,0,Optic Nerve
+3701B,62,6,SAH,0,Blood
+3701R,62,6,SAH,0,Neurosensory Retina
+3675B,56,9.3,AMI,0,Blood
+3675R,56,9.3,AMI,0,Neurosensory Retina
+3675C,56,9.3,AMI,0,RPE/Choroid
+3675O,56,9.3,AMI,0,Optic Nerve
+3684B,37,3.1,Hanging,0,Blood
+3684R,37,3.1,Hanging,0,Neurosensory Retina
+3684C,37,3.1,Hanging,0,RPE/Choroid
+3684O,37,3.1,Hanging,0,Optic Nerve
+3677B,76,10.1,AMI,0,Blood
+3677R,76,10.1,AMI,0,Neurosensory Retina
+3677C,76,10.1,AMI,0,RPE/Choroid
+3677O,76,10.1,AMI,0,Optic Nerve
+3685B,63,11.3,AMI,0,Blood
+3685R,63,11.3,AMI,0,Neurosensory Retina
+3685C,63,11.3,AMI,0,RPE/Choroid
+3685O,63,11.3,AMI,0,Optic Nerve
+3682R,66,9.4,Respiratory Failure,0,Neurosensory Retina
+3682C,66,9.4,Respiratory Failure,0,RPE/Choroid
+3682O,66,9.4,Respiratory Failure,0,Optic Nerve
